@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loop-jsx{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f0f0f0;
+  color: black;
+  width: 100px;
+}
+
+.loop-data p{
+
+  background-color: #f0f0f0;
+  color: black;
+  width: 300px;
+}
+
+.laptop{
+  margin: 10px;
+}
+.laptop img{
+  width: 300px;
+  height: auto;
+}
